@@ -48,5 +48,5 @@
 
 ---
 <div align="center">
-  נוצר ומתוחזק על ידי [השם שלך](https://github.com/YOUR_USERNAME) © 2026
+  נוצר ומתוחזק על ידי (https://github.com/oornan) © 2026
 </div>
